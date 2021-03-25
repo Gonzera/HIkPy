@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<User version="1.0" xmlns="http://www.hikvision.com/ver10/XMLSchema">
-<id>1</id>
-<userName>admin</userName>
-<priority>high</priority>
-<ipAddress>0.0.0.0</ipAddress>
-<macAddress>00:00:00:00:00:00</macAddress>
-<userLevel>Administrator</userLevel>
-</User>
