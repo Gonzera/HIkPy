@@ -1,8 +1,9 @@
-/HikPy/hikvision-xor-decrypter
+/hikvision-xor-decrypter
 configurationFile
 decryptedoutput
 plaintextOutput
 res_8000.txt
 strings_*
-
+users
+/snaps
 
